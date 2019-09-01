@@ -24,7 +24,7 @@ header {
 
 header ul {
   margin: 0;
-  padding-left: 50px;
+  padding-left: 40px;
 }
 
 header ul a {
@@ -44,8 +44,12 @@ header li {
 }
 
 .right {
-  float: right;
+  float: left;
   width: auto;
+}
+
+.black_right{
+  float: right;
 }
 
 header ul:after {
